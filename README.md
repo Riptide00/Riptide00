@@ -1,5 +1,3 @@
-[![Support Server](https://img.shields.io/discord/816455873605926933.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/djN2AejJ)
-
 I work as a freelance webdesigner in Belgium. I work with different platforms and/ or frameworks on a project to project basis. I also design logos, graphics, animations and 3D models (simple ones).
 
 [![Riptide00's GitHub stats](https://github-readme-stats.vercel.app/api?username=riptide00&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
